@@ -3,7 +3,7 @@ import type { Site, Ui, Features } from './types'
 export const SITE: Site = {
   website: 'https://boringgravel.github.io/',
   base: '/',
-  title: 'Astro AntfuStyle Theme',
+  title: 'Boring Gravel',
   description:
     'A Blog',
   author: 'Boring Gravel',
