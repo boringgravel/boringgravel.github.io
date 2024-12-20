@@ -5,7 +5,7 @@ export const SITE: Site = {
   base: '/',
   title: 'Astro AntfuStyle Theme',
   description:
-    'A customizable, feature-rich Astro theme for blog and portfolio creation',
+    'A Blog',
   author: 'Boring Gravel',
   lang: 'zh-Hans',
   ogLocale: 'zh_CN',
