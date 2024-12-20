@@ -1,0 +1,30 @@
+---
+title: Projects
+subtitle: Tech Stack for the Astro AntfuStyle Theme & Credits
+description: Tech Stack for the Astro AntfuStyle Theme & Credits
+bgType: dot
+toc: true
+ogImage: false
+---
+
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import WideLayout from '~/layouts/WideLayout.astro'
+import GroupView from '~/components/views/GroupView.astro'
+import { getUrl } from '~/utils/common'
+
+<BaseLayout
+  title={frontmatter.title}
+  description={frontmatter.description}
+  bgType={frontmatter.bgType}
+  ogImage={frontmatter.ogImage}
+>
+  <WideLayout title={frontmatter.title} subtitle={frontmatter.subtitle}>
+    <div slot="button" class="flex flex-warp justify-center items-center gap-4">
+      <a class="btn-orange" href={getUrl('/releases/')}>
+        <div class="i-ph:rocket-launch-duotone transition-all ease-out duration-200"></div>
+        <p class="inline-block my-0! ml-1.5">Latest Releases</p>
+      </a>
+    </div>
+    <GroupView pageToc={frontmatter.toc} />
+  </WideLayout>
+</BaseLayout>
