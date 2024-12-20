@@ -105,8 +105,8 @@ export const FEATURES: Features = {
   share: [
     true,
     {
-      twitter: [true, '@ste7lin'],
-      mastodon: [true, '@ste7lin@fairy.id'],
+      twitter: [true, '@znyjoe997'],
+      mastodon: false,
       facebook: false,
       pinterest: false,
       reddit: false,
