@@ -1,7 +1,7 @@
 ---
 title: 2024阅读报告
 description: 猜猜今年又翻完几本书
-pubDate: 2024-12-20
+pubDate: 2099-12-31
 lastModDate: ''
 toc: true
 share: true
@@ -38,7 +38,7 @@ ogImage: true
 
 城堡
 
-焦虑的人
+[[book0|焦虑的人]]
 
 一个陌生女人的来信
 
