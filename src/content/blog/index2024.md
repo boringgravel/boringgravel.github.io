@@ -38,7 +38,7 @@ ogImage: true
 
 城堡
 
-[焦虑的人](https://boringgravel.github.io/blog/book0/)
+[焦虑的人](book0.md)
 
 一个陌生女人的来信
 
