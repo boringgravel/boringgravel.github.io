@@ -1,15 +1,17 @@
 ---
 title: 2024阅读报告
 description: 猜猜今年又翻完几本书
-pubDate: 2099-12-31
-lastModDate: ''
+pubDate: 2024-12-31
+lastModDate: 
 toc: true
 share: true
 ogImage: true
 ---
 
 # 72本
+
 ### 小说（34）
+
 长日将尽
 
 涅朵奇卡
@@ -38,7 +40,7 @@ ogImage: true
 
 城堡
 
-[焦虑的人](../book0)
+[焦虑的人](../blog/book1)
 
 一个陌生女人的来信
 
