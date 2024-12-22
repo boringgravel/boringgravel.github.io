@@ -1,11 +1,11 @@
 ---
 title: 阅01 就算世界明天就要毁灭，今天我也要种一棵小苹果树
-description: 猜猜今年又翻完几本书
+description: 
 pubDate: 2024-12-20
 lastModDate: ''
 toc: true
 share: true
-ogImage: true
+ogImage: false
 ---
 
 # 《焦虑的人》

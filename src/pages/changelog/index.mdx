@@ -1,14 +1,14 @@
 ---
 title: Changelog
-subtitle: ''
-description: The changelog of the Astro AntfuStyle Theme project
+subtitle: 'Little things.'
+description: Little things.
 bgType: particle
 toc: false
 ogImage: true
 ---
 
 import BaseLayout from '~/layouts/BaseLayout.astro'
-import TabbedLayout from '~/layouts/TabbedLayout.astro'
+import StandardLayout from '~/layouts/StandardLayout.astro'
 import ListView from '~/components/views/ListView.astro'
 
 <BaseLayout
@@ -17,7 +17,7 @@ import ListView from '~/components/views/ListView.astro'
   bgType={frontmatter.bgType}
   ogImage={frontmatter.ogImage}
 >
-  <TabbedLayout subtitle={frontmatter.subtitle}>
+  <StandardLayout title={frontmatter.title} subtitle={frontmatter.subtitle}>
     <ListView pageToc={frontmatter.toc} collectionType="changelog" />
-  </TabbedLayout>
+  </StandardLayout>
 </BaseLayout>

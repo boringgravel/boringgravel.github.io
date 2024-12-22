@@ -1,2 +1,4 @@
-需要一些写文字的空间
- [博客](https://boringgravel.github.io/blog/)
+
+ [博客](./blog)
+ [技术](./projects)
+ [短](./changelog)
