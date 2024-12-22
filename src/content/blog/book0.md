@@ -1,6 +1,6 @@
 ---
 title: 阅01 就算世界明天就要毁灭，今天我也要种一棵小苹果树
-description: 
+description: 就算世界明天就要毁灭，今天我也要种一棵小苹果树
 pubDate: 2024-12-20
 lastModDate: ''
 toc: true
