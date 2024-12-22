@@ -5,7 +5,7 @@ pubDate: 2024-12-20
 lastModDate: ''
 toc: true
 share: true
-ogImage: false
+ogImage: true
 ---
 
 # 《焦虑的人》
