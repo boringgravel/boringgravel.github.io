@@ -37,13 +37,13 @@ export const UI: Ui = {
   ],
   socialLinks: [
     {
-      link: 'https://github.com/lin-stephanie/astro-antfustyle-theme',
-      title: 'AntfuStyle on Github',
+      link: 'https://github.com/boringgravel/boringgravel.github.io',
+      title: `${SITE.author} on Github`,
       displayMode: 'alwaysIcon',
       icon: 'i-uil-github-alt',
     },
     {
-      link: 'https://github.com/lin-stephanie/astro-antfustyle-theme',
+      link: 'https://github.com/boringgravel/boringgravel.github.io',
       title: `${SITE.author} on Twitter`,
       displayMode: 'alwaysIcon',
       icon: 'i-ri-twitter-x-fill',
