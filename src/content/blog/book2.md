@@ -1,5 +1,5 @@
 ---
-title: 阅02《实现自我：神经症与人的成长》
+title: 《实现自我：神经症与人的成长》
 description: 阅读是砍向我们内心冰封大海的斧头
 pubDate: 2024-12-22
 lastModDate: ""

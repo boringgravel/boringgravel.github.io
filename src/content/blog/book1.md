@@ -1,5 +1,5 @@
 ---
-title: 阅01 《焦虑的人》
+title: 《焦虑的人》
 description: 就算世界明天就要毁灭，今天我也要种一棵小苹果树
 pubDate: 2024-12-20
 lastModDate: ""
