@@ -30,9 +30,9 @@ export const UI: Ui = {
     {
       path: '/changelog',
       title: 'Changelog',
-      displayMode: 'iconToTextOnMobile',
+      displayMode: 'alwaysText',
       text: 'Changelog',
-      icon: 'i-ri-draft-line',
+      // icon: 'i-ri-draft-line',
     },
   ],
   socialLinks: [
@@ -41,12 +41,6 @@ export const UI: Ui = {
       title: `${SITE.author} on Github`,
       displayMode: 'alwaysIcon',
       icon: 'i-uil-github-alt',
-    },
-    {
-      link: 'https://github.com/boringgravel/boringgravel.github.io',
-      title: `${SITE.author} on Twitter`,
-      displayMode: 'alwaysIcon',
-      icon: 'i-ri-twitter-x-fill',
     },
   ],
   navBarLayout: {
