@@ -3,58 +3,10 @@
   "projects": {
     "分类": [
       {
-        "name": "astro",
-        "link": "https://github.com/withastro/astro",
+        "name": "test",
+        "link": "https://https://boringgravel.github.io/projects/test.md",
         "desc": "The web framework for content-driven websites",
         "icon": "i-devicon-astro"
-      },
-      {
-        "name": "@astrojs/check",
-        "link": "https://www.npmjs.com/package/@astrojs/check",
-        "desc": "Astro's official check tool",
-        "icon": "i-carbon-settings-check"
-      },
-      {
-        "name": "@astrojs/markdown-remark",
-        "link": "https://www.npmjs.com/package/@astrojs/markdown-remark",
-        "desc": "Astro's integration with markdown using Remark",
-        "icon": "i-la-markdown"
-      },
-      {
-        "name": "@astrojs/mdx",
-        "link": "https://www.npmjs.com/package/@astrojs/mdx",
-        "desc": "Astro's MDX support",
-        "icon": "i-logos-mdx"
-      },
-      {
-        "name": "@astrojs/rss",
-        "link": "https://www.npmjs.com/package/@astrojs/rss",
-        "desc": "Astro RSS feed generation support",
-        "icon": "i-cil-rss"
-      },
-      {
-        "name": "@astrojs/sitemap",
-        "link": "https://www.npmjs.com/package/@astrojs/sitemap",
-        "desc": "Astro Sitemap generation",
-        "icon": "i-uil-sitemap"
-      },
-      {
-        "name": "astro-robots-txt",
-        "link": "https://www.npmjs.com/package/astro-robots-txt",
-        "desc": "Robots.txt generator for Astro",
-        "icon": "i-catppuccin-robots"
-      },
-      {
-        "name": "@ascorbic/feed-loader",
-        "link": "https://www.npmjs.com/package/@ascorbic/feed-loader",
-        "desc": "Load feeds into your Astro project",
-        "icon": "i-flat-color-icons-feed-in"
-      },
-      {
-        "name": "prettier-plugin-astro",
-        "link": "https://github.com/withastro/prettier-plugin-astro",
-        "desc": "Prettier plugin for Astro files",
-        "icon": "i-logos-prettier"
       }
     ]
   }
