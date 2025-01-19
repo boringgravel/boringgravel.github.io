@@ -6,6 +6,7 @@ lastModDate: ""
 toc: true
 share: true
 ogImage: true
+tags: [\"astro\", \"learning in public\", \"setbacks\", \"community\"]
 ---
 
 # 杂草地
